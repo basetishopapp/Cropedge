@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "188508721319",
+    "project_id": "farmedge-56629",
+    "storage_bucket": "farmedge-56629.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188508721319:android:e2481fcd3927efd7244b82",
+        "android_client_info": {
+          "package_name": "com.example.farmedge"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpxvJ5wp4I4I_UoKuJtSfVkClmAHJ_LCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

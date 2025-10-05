@@ -1,1 +1,39 @@
-{"flutter":{"platforms":{"android":{"default":{"projectId":"farmedge-56629","appId":"1:188508721319:android:e2481fcd3927efd7244b82","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"farmedge-56629","configurations":{"android":"1:188508721319:android:e2481fcd3927efd7244b82","ios":"1:188508721319:ios:af849032886cc250244b82","macos":"1:188508721319:ios:af849032886cc250244b82","web":"1:188508721319:web:7b15f070d63b196a244b82","windows":"1:188508721319:web:cbc6804c056a039d244b82"}}}}}}
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "farmedge-56629",
+          "appId": "1:188508721319:android:e2481fcd3927efd7244b82",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "farmedge-56629",
+          "configurations": {
+            "android": "1:188508721319:android:e2481fcd3927efd7244b82",
+            "ios": "1:188508721319:ios:af849032886cc250244b82",
+            "macos": "1:188508721319:ios:af849032886cc250244b82",
+            "web": "1:188508721319:web:7b15f070d63b196a244b82",
+            "windows": "1:188508721319:web:cbc6804c056a039d244b82"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
